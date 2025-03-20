@@ -1,0 +1,3 @@
+/Users/yang-ingyeong/CLionProjects/Altu_Bitu/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/yang-ingyeong/CLionProjects/Altu_Bitu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yang-ingyeong/CLionProjects/Altu_Bitu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
